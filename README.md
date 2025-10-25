@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola, soy [Tu Nombre]!
+💻 Desarrollador Full Stack | React | Node.js | MongoDB  
 
-<!--
-**JuDevRo/JuDevRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Me apasiona crear aplicaciones que mezclan buena arquitectura con una gran experiencia de usuario.  
+📚 Actualmente aprendiendo: TypeScript y Arquitectura de Microservicios.  
+🌱 Siempre abierto a colaborar en proyectos interesantes.
 
-Here are some ideas to get you started:
+## 🧠 Tecnologías
+- Frontend: React, Vite, Sass, TailwindCSS  
+- Backend: Node.js, Express, MongoDB  
+- DevOps: Docker, AWS, GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuDevRo&show_icons=true&theme=tokyonight)
+
+## 🌐 Encuéntrame en
+[LinkedIn](https://www.linkedin.com/in/juan-r-4116a5223/) | [Portfolio](https://judev.site)
+
+# 🏠 Room Reservation App
+Aplicación para gestionar reservas de habitaciones en tiempo real.
+
+## ✨ Características
+- Gestión de usuarios y autenticación.
+- Reservas visuales en calendario interactivo.
+- Integración con MongoDB y Node.js.
+
+## 🧠 Tecnologías
+React, Node.js, Express, MongoDB, Docker
