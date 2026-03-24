@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy JuDevRo!
+# 👋 ¡Hola, soy JuDev!
 💻 Fullstack Engineer 
 
 🚀 Me apasiona crear aplicaciones que mezclan buena arquitectura con una gran experiencia de usuario.  
